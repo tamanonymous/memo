@@ -1,1 +1,1 @@
-# repoz
+# repository-basic-set
